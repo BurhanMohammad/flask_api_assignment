@@ -1,15 +1,7 @@
-blinker
-click
-colorama
-dnspython
 Flask
 Flask-JWT
 Flask-JWT-Extended
 Flask-PyMongo
-gunicorn
-itsdangerous
-Jinja2
-MarkupSafe
-PyJWT
 pymongo
-Werkzeug
+gunicorn
+dnspython
