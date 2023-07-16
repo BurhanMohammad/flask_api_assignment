@@ -5,7 +5,6 @@ from flask_jwt_extended import (
 )
 from pymongo import MongoClient
 from bson import ObjectId
-from collections import Mapping
 
 
 # Create Flask app
