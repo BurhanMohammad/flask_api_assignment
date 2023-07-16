@@ -11,6 +11,11 @@ This is a Flask API that interacts with a MongoDB database to perform CRUD opera
 - pymongo
 
 
+## Postman test apis link
+
+[APi's links](https://api.postman.com/collections/28546968-4e2b8880-d940-43e4-a04c-cbf7f32844f6?access_key=PMAT-01H5EKKPEP49Y803WNX4WEBXYK)
+
+
 ## Testing with Postman
 
 To test the API using Postman:
